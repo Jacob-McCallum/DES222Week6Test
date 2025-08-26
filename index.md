@@ -6,4 +6,4 @@ Here is some place meaningful text would be.
 
 
 # Look at this video
-{% include youtube.html id="IxX_QHay02M&list=RDIxX_QHay02M&start_radio=1" %}
+{% include youtube.html id="IxX_QHay02M" %}
